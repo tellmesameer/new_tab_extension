@@ -1,4 +1,3 @@
-Initialized : Sun 20 Aug 2023 03∶41∶08 PM IST
 # Material You NewTab
 🚀 Experience a sleek NewTab or homepage theme for your browser, inspired by Google's 'Material You' design. This extension offers a wealth of functionality, including the ability to search using your preferred search engine (Google, DuckDuckGo, Bing, YouTube) without needing to change the search engine from the settings. It also provides convenient shortcuts to your favorite websites, theming functionality, and much more. 🛡️ This extension doesn't require any permissions, ensuring your privacy and security while browsing.
 
@@ -39,7 +38,3 @@ Clone this repository to your local machine or download the latest release from 
 ![Screenshot 2](https://i.postimg.cc/bPW2fHX7/FireFox.png)
 
 ![Screenshot 2](https://i.postimg.cc/MqPSg5NR/brave.png)
-
-## Feedback
-
-We value your feedback! If you have any suggestions, ideas, or questions, please don't hesitate to reach out to us via ✉️ [Email](mailto:xengshi@duck.com) or ✈️ [Telegram](https://t.me/xengshi).
