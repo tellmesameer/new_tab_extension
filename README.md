@@ -1,4 +1,3 @@
-Initialized : Sun 20 Aug 2023 03∶41∶08 PM IST
 # Material You NewTab
 Material You NewTab is an extension for your browser that replaces the default New Tab or homepage, providing a fresh and modern look inspired by Google’s Material You design. This extension can be installed on nearly any browser, including Google Chrome, Edge, Firefox, Brave, and Safari.
 
@@ -92,10 +91,3 @@ For a step-by-step installation guide, watch the video below:
 ![Screenshot 2](https://i.postimg.cc/bPW2fHX7/FireFox.png)
 
 ![Screenshot 2](https://i.postimg.cc/MqPSg5NR/brave.png)
-
-## Feedback
-
-We value your feedback! If you have any suggestions, ideas, or questions, please don't hesitate to reach out to us via  
-![Email](https://img.icons8.com/color/24/000000/email.png) [Email](mailto:xengshi@duck.com)  or  ![Telegram](https://img.icons8.com/color/24/000000/telegram-app.png) [Telegram](https://t.me/xengshi).
-
-
